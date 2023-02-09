@@ -1,7 +1,7 @@
 ## Ola! Eu sou o Lucas Gabriel 👋
 
-- 🔭 Me aventurando no front-end
-- 🌱 Estudando JavaScript 
+- 📚 Granduando em Sistemas de Informação pela UFPE
+- 🌱 Estudando Front-end 
 - 📫 Contate-me no email: lucasgoliveiras@gmail.com
 
 <div>
