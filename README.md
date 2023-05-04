@@ -10,6 +10,7 @@
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="css 3" src="https://img.shields.io/badge/-CSS3-F05032?style=flat-square&logo=css3&logoColor=white" />
 <img alt="javaScript" src="https://img.shields.io/badge/-JavaScript-8a2be2?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white" />
+<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter Notebook-13aa52?style=flat-square&logo=jupyter&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-FF6000?style=flat-square&logo=git&logoColor=white" />
           
 <div align="center">
