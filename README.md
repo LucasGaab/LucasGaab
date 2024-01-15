@@ -6,12 +6,13 @@
 
 
 ## Tecnologias que utilizo:
-
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="css 3" src="https://img.shields.io/badge/-CSS3-F05032?style=flat-square&logo=css3&logoColor=white" />
-<img alt="javaScript" src="https://img.shields.io/badge/-JavaScript-8a2be2?style=flat-square&logo=javascript&logoColor=white" />
-<img alt="python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white" />
-<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter Notebook-13aa52?style=flat-square&logo=jupyter&logoColor=white" />
-<img alt="git" src="https://img.shields.io/badge/-Git-FF6000?style=flat-square&logo=git&logoColor=white" />
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
           
 <div align="center">
   <a href="https://github.com/LucasGaab">
